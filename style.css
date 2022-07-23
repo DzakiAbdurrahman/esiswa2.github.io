@@ -1,0 +1,66 @@
+#container {
+    width: 1000px;
+    background: blue;
+    margin: auto;
+    height: 780px;
+    
+}
+
+#jumbotron {
+    border-top: 50px blue solid;
+    background: white;
+    height: 700px;
+    width: 950px;
+    margin: auto;
+}
+
+#header img{
+    width: 250px;
+    height: 120px;
+    margin-top: 50px;
+}
+
+#contentkiri{
+    float: left;
+    width: 40%;
+    margin-top: 10px;
+}
+
+.tombol{
+    width: 250px;
+    height: 50px;
+    margin: auto;
+    border: 1px gray solid;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 30px;
+}
+
+.tombol a{
+    text-decoration: none;
+    background: blue;
+    color: white;
+    padding: 10px 40px;
+}
+
+#contentkanan{
+    width: 60%;
+    float: right;
+}
+
+#contentkanan img{
+    width:95%;
+    height: 370px;
+    margin-top: 30px;
+}
+
+#footer{
+    color: white;
+    background: blue;
+    padding: 10px;
+    margin: auto;
+    
+}
+
+
+
